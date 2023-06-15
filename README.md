@@ -10,7 +10,7 @@
 
 <p align="center"> I began my journey with Data Science as a geologist who was thirsty for data, as in my opinion data is power </p>
 
-<p align="center"> My enthusiasm for technology is what drives me to constantly challenge myself and learn new things. Witnessing the incredible advancements in technology and how it impacts our daily lives has left me in awe. I am dedicated to being a part of this exciting journey, and I can't wait to see where it takes me. </p>
+<p align="center"> I am a highly motivated Data Analyst with skills in SQL, Python, and Tableau. I enjoy absorbing data and looking for trends and potentialcorelations where others just see numbers. I love Geology, Offroading, Being Outdoors absorbing nature. </p>
 
 
 <p align="center"> 📫  If you're interested in any of my work, or want to collaborate, feel free to reach out! </p>
