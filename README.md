@@ -1,8 +1,8 @@
 
 <img src="https://media.giphy.com/media/GYqIFQvPgVBo4/giphy.gif" width="1000" height="250" />
 
-<p align="center"> <i>"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."</i></p>
-<p align="right"> <b><i> - Henry Ward Beecher</b></i></p>
+<p align="center"> <i>" Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.  "</i></p>
+<p align="right"> <b><i> - Robert Frost</b></i></p>
 
 ---
 
