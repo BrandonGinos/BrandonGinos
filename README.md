@@ -12,9 +12,6 @@
 
 <p align="center"> My enthusiasm for technology is what drives me to constantly challenge myself and learn new things. Witnessing the incredible advancements in technology and how it impacts our daily lives has left me in awe. I am dedicated to being a part of this exciting journey, and I can't wait to see where it takes me. </p>
 
-<p align="center"> I will continue to add awesome projects, so stay tuned. </p>
-
-<p align="center"> 🌱 Follow along as I build. </p>
 
 <p align="center"> 📫  If you're interested in any of my work, or want to collaborate, feel free to reach out! </p>
 <!--
