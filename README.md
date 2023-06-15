@@ -16,6 +16,48 @@
 <p align="center"> 📫  If you're interested in any of my work, or want to collaborate, feel free to reach out! </p>
 <!--
 **BrandonGinos/BrandonGinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html>
+<head>
+  <title>3D Plot</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+  <div id="plot"></div>
+
+  <script>
+    // Add your Python code here
+    // ...
+
+    // Create a 3D plot using Plotly
+    var trace1 = {
+      x: longitude,
+      y: latitude,
+      z: water_depth,
+      mode: 'markers',
+      marker: {
+        size: 5,
+        color: colors,
+        symbol: 'circle'
+      },
+      type: 'scatter3d'
+    };
+
+    var data = [trace1];
+
+    var layout = {
+      title: 'Soil Analysis',
+      scene: {
+        xaxis: { title: 'Longitude' },
+        yaxis: { title: 'Latitude' },
+        zaxis: { title: 'Water Depth' }
+      }
+    };
+
+    Plotly.newPlot('plot', data, layout);
+  </script>
+</body>
+</html>
 
 Here are some ideas to get you started:
 
