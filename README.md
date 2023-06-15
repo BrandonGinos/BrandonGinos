@@ -8,7 +8,7 @@
 
 <h3 align="center"><b> Hi, I'm Brandon! I'm a Data Analyst  👋</b></h3>
 
-<p align="center"> I am a highly motivated and skilled Backend Software Engineer from Seattle, and I am deeply passionate about specializing in the field of ML/AI deployment. With a strong foundation in Java and C++, I am continuously expanding my proficiency in Python, as well as other languages such as C, Js, CSS, and HTML. My focus and dedication to mastering new skills and exploring cutting-edge technologies have led me to the realization that my future lies in the exciting and ever-evolving realm of ML/AI. </p>
+<p align="center"> I began my journey with Data Science as a geologist who was thirsty for data, as in my opinion data is power </p>
 
 <p align="center"> My enthusiasm for technology is what drives me to constantly challenge myself and learn new things. Witnessing the incredible advancements in technology and how it impacts our daily lives has left me in awe. I am dedicated to being a part of this exciting journey, and I can't wait to see where it takes me. </p>
 
